@@ -1,2 +1,2 @@
 # theatre-booking-system-c
-Simple theatre booking system in C++.
+Theatre booking system in C++.
